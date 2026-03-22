@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sunan-al-nasai"
-version = "1.0.0"
+version = "1.0.1"
 description = "Complete Sunan al-Nasa'i — 5,768 hadiths with full Arabic text and English translations. Offline-first, zero dependencies. CLI + Python library."
 authors = ["muhammadsaadamin"]
 license = "AGPL-3.0"
