@@ -7,7 +7,6 @@ dist/
 build/
 .venv/
 venv/
-data/chapters/
 data/nasai.json.gz
 !data/nasai.json
 .DS_Store
